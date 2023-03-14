@@ -1,0 +1,31 @@
+// Font
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital@0;1&family=Inconsolata&family=Playfair+Display&family=Playfair+Display+SC&display=swap');
+
+// Variables
+$font-head-caps: 'Playfair Display SC', serif;
+$font-head-normal: 'Playfair Display', serif;
+$font-normal: 'Crimson Pro', serif;
+$font-mono: 'Inconsolata', monospace;
+
+$font-size-middle: 2.2rem; //1.7rem
+
+$font-size-large: $font-size-middle + 0.3;
+$font-size-Large: $font-size-large + 0.5;
+$font-size-LARGE: $font-size-Large + 0.5;
+
+$font-size-small: $font-size-middle - 0.3;
+$font-size-footnote: $font-size-small - 0.2;
+$font-size-script: $font-size-footnote - 0.1;
+
+$letter-space-ratio: 0.1;
+$half-paragraph-margin: 0.5 * $font-size-middle;
+$line-length: 450px;
+
+$color-dark-gray: #606060;
+$color-light-gray: #909090;
+$color-ivory-white: #fffff0;
+$color-black: #000000;
+
+$golden-ratio: 1.618;
+
+$front-image: url('/assets/images/sastraswara_front.jpeg')

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{% if page.headline %}
+<div class="row">
+    <div class="three columns">
+        &nbsp;
+    </div>
+    <div class="seven columns">
+        <img src="{{ page.headline }}" alt="page-head-image">
+        <!--<div class="head-image" style="background-image: url({{ page.headline }}); background-size: cover; background-repeat: no-repeat; background-position: center;">
+        </div>-->
+        <!--
+        <img class="head-image" src="{{ page.headline }}" alt="{{ page.title }}">
+    -->
+    </div>
+    <div class="two columns">
+        &nbsp;
+    </div>
+    <!--
+    <div class="two columns">
+        &nbsp;
+    </div>
+    -->
+</div>
+{% else %}
+<div class="upper-offset-by-four">
+    &nbsp;
+</div>
+{% endif %}
+
+<div class="row">
+    <div class="three columns">
+        <div class="container">
+            {% include navigation.html %}
+        </div>
+    </div>
+    <div class="seven columns">
+        <div class="container">
+            <h1 class="page-title">{{ page.title }}</h1>
+            {% if page.carousel %}
+            {% include carousel.html height="50" unit="%"%}
+            {% endif %}
+            {{ content }}
+        </div>
+    </div>
+    <div class="two columns">
+        &nbsp;
+    </div>
+</div>
+
+<div class="row">
+    <div class="container">
+        <footer>
+            &nbsp;
+        </footer>
+    </div>
+</div>

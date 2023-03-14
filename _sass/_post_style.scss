@@ -1,0 +1,47 @@
+// Post style
+.post-header {
+    margin-bottom: 2 * $half-paragraph-margin;
+}
+
+.post-footer {
+    margin-top: 4 * $half-paragraph-margin;
+}
+
+.top-navi, .next-post-navi, .prev-post-navi {
+    display: block;
+    line-height: $font-size-middle;
+    text-align: center;
+    margin-top: 0.25 * $half-paragraph-margin;
+    margin-bottom: 0.25 * $half-paragraph-margin;
+}
+
+@media (min-width: 550px) {
+   .top-navi {
+       text-align: center;
+       line-height: $font-size-small;
+   }
+   .prev-post-navi {
+       text-align: left;
+       line-height: $font-size-small;
+   }
+   .next-post-navi {
+       text-align: left;
+       line-height: $font-size-small;
+   }
+}
+
+a.next, a.prev {
+    display: block;
+    line-height: $font-size-small;
+}
+
+.photo-gallery {
+    width: 48%;
+    display: inline-block;
+}
+@media (min-width: 550px) {
+    .photo-gallery {
+        width: 30.67%;
+        //display: inline-block;
+    }
+}

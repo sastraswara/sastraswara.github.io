@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/skeleton.css">
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+
+    <script src="https://use.fontawesome.com/7690c73233.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/assets/js/smooth.js"></script>
+    <script type="text/javascript" src="/assets/js/fade-in.js"></script>
+  </head>
+  <body>
+    <!-- {% include navigation.html %} -->
+    {{ content }}
+  </body>
+</html>
