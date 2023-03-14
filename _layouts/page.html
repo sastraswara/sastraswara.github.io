@@ -42,6 +42,9 @@ layout: default
             {% include carousel.html height="50" unit="%"%}
             {% endif %}
             {{ content }}
+            {% if.page.contact %}
+            {% include contact.html %}
+            {% endif %}
         </div>
     </div>
     <div class="two columns">
