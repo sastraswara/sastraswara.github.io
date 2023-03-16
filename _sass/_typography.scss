@@ -139,3 +139,9 @@ figcaption {
         line-height: 1.3 * $font-size-small;
     }
 }
+
+.impressum {
+  h1, h2, h3, p, a {
+    font-size: small;
+  }
+}

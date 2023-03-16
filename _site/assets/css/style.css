@@ -221,6 +221,10 @@ figcaption {
   line-height: 2.47rem;
 }
 
+.impressum h1, .impressum h2, .impressum h3, .impressum p, .impressum a {
+  font-size: small;
+}
+
 .post-header {
   margin-bottom: 2.2rem;
 }
