@@ -56,7 +56,7 @@ a {
     font-size: $font-size-footnote;
     font-family: $font-head-caps;
     text-transform: uppercase;
-    text-decoration: none;
+    text-decoration: underline;
     color: $color-black;
     letter-spacing: $letter-space-ratio * $font-size-footnote;
     line-height: 1.3 * $font-size-middle;

@@ -39,10 +39,10 @@ layout: default
         <div class="container">
             <h1 class="page-title">{{ page.title }}</h1>
             {% if page.carousel %}
-            {% include carousel.html height="50" unit="%"%}
+            {% include carousel.html height="50" unit="%" %}
             {% endif %}
             {{ content }}
-            {% if.page.contact %}
+            {% if page.contact %}
             {% include contact.html %}
             {% endif %}
         </div>
