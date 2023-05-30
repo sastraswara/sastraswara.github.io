@@ -1,11 +1,13 @@
 ---
-title: Tarung
+title: Latent Sonorities
 layout: page
 carousel: true
 carousels:
   - images:
     - image: /assets/images/latent-sonorities/latent-sonorities-01.jpg
 ---
+
+<figcaption>Gamelan instruments to be recorded at the Morphine Raum, Berlin.</figcaption>
 
 The project will create a sample pack of Javanese gamelan instruments to be used for music composition/production. The instruments that will be sampled come from the collection of Haus der Indonesischen Kulturen in Berlin. After the recording of the samples, a group of international artists will create new works using it.
 

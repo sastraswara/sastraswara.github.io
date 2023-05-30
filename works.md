@@ -5,11 +5,10 @@ layout: page
 
 ## 2023
 
-[Latent Sonorities]({% link works/latent-sonorities.md %})<br>
+[Latent Sonorities]({% link works/latent-sonorities.md %}) (ongoing)<br>
 Sample pack recording, composition of new music, and performances using
 Javanese Gamelan instrument.
 With L_KW and Morphine Records.
-Ongoing.
 
 ## 2022
 

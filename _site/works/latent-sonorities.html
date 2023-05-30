@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Latent Sonorities - Sastraswara</title>
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/skeleton.css">
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+
+    <script src="https://use.fontawesome.com/7690c73233.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/assets/js/smooth.js"></script>
+    <script type="text/javascript" src="/assets/js/fade-in.js"></script>
+  </head>
+  <body>
+    <!-- <header>
+    <nav>
+        <span class="site-name"><a href="/">Sastraswara</a></span><br>
+        <a href="/works.html">Works</a><br>
+        <a href="/about.html">About</a><br>
+        <a href="/links.html">Links</a><br>
+        <a href="/contact.html">Contact</a><br>
+    </nav>
+</header>
+ -->
+    
+<div class="upper-offset-by-four">
+    &nbsp;
+</div>
+
+
+<div class="row">
+    <div class="three columns">
+        <div class="container">
+            <header>
+    <nav>
+        <span class="site-name"><a href="/">Sastraswara</a></span><br>
+        <a href="/works.html">Works</a><br>
+        <a href="/about.html">About</a><br>
+        <a href="/links.html">Links</a><br>
+        <a href="/contact.html">Contact</a><br>
+    </nav>
+</header>
+
+        </div>
+    </div>
+    <div class="seven columns">
+        <div class="container">
+            <h1 class="page-title">Latent Sonorities</h1>
+            
+            
+
+
+<div class="carousel__holder">
+    <div id="carousel-1" class="carousel">
+        
+          <input class="carousel__activator" type="radio" name="carousel-1" id="-1a" checked="checked" />
+        
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="-1a"></label>
+              <label class="carousel__control carousel__control--forward" for="-1a"></label>
+          </div>
+        
+        <div class="carousel__track">
+          <ul>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/images/latent-sonorities/latent-sonorities-01.jpg');"></li>
+            
+          </ul>
+        </div>
+        <div class="carousel__indicators">
+            
+              <label class="carousel__indicator" for="-1a"></label>
+            
+        </div>
+    </div>
+</div>
+
+<style>
+.carousel__holder {width: 100%; position: relative; padding-bottom: 50%; margin: 1rem 0 1rem;}
+.carousel {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  position: absolute;
+  padding: 0;
+}
+.carousel__controls,
+.carousel__activator {
+  display: none;
+}
+
+.carousel__activator:nth-of-type(1):checked ~ .carousel__track {
+  -webkit-transform: translateX(-000%);
+          transform: translateX(-000%);
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__slide:nth-of-type(1) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__controls:nth-of-type(1) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(1) {
+  opacity: 1;
+}
+
+
+.carousel__control {
+  height: 30px;
+  width: 30px;
+  margin-top: -15px;
+  top: 50%;
+  position: absolute;
+  display: block;
+  cursor: pointer;
+  border-width: 5px 5px 0 0;
+  border-style: solid;
+  border-color: #fafafa;
+  opacity: 0.35;
+  opacity: 1;
+  outline: 0;
+  z-index: 3;
+}
+.carousel__control:hover {
+  opacity: 1;
+}
+.carousel__control--backward {
+  left: 20px;
+  -webkit-transform: rotate(-135deg);
+          transform: rotate(-135deg);
+}
+.carousel__control--forward {
+  right: 20px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.carousel__indicators {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+.carousel__indicator {
+  height: 15px;
+  width: 15px;
+  border-radius: 100%;
+  display: inline-block;
+  z-index: 2;
+  cursor: pointer;
+  opacity: 0.35;
+  margin: 0 2.5px 0 2.5px;
+}
+.carousel__indicator:hover {
+  opacity: 0.75;
+}
+.carousel__track {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  transition: -webkit-transform 0.5s ease 0s;
+  transition: transform 0.5s ease 0s;
+  transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+}
+.carousel__track .carousel__slide {
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+}
+
+.carousel__track .carousel__slide:nth-of-type(1) {
+  -webkit-transform: translateX(000%);
+          transform: translateX(000%);
+}
+
+
+.carousel--scale .carousel__slide {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+.carousel__slide {
+  height: 100%;
+  position: absolute;
+  opacity: 0;
+  overflow: hidden;
+}
+.carousel__slide .overlay {height: 100%;}
+.carousel--thumb .carousel__indicator {
+  height: 30px;
+  width: 30px;
+}
+.carousel__indicator {
+  background-color: #fafafa;
+}
+
+.carousel__slide:nth-of-type(1),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
+  background-size: cover;
+  background-position: center;
+}
+
+</style>
+
+<script>
+  function isVisible(el) {
+        while (el) {
+            if (el === document) {
+                return true;
+            }
+
+            var $style = window.getComputedStyle(el, null);
+
+            if (!el) {
+                return false;
+            } else if (!$style) {
+                return false;
+            } else if ($style.display === 'none') {
+                return false;
+            } else if ($style.visibility === 'hidden') {
+                return false;
+            } else if (+$style.opacity === 0) {
+                return false;
+            } else if (($style.display === 'block' || $style.display === 'inline-block') &&
+                $style.height === '0px' && $style.overflow === 'hidden') {
+                return false;
+            } else {
+                return $style.position === 'fixed' || isVisible(el.parentNode);
+            }
+        }
+  }
+  
+</script>
+            
+            <figcaption>Gamelan instruments to be recorded at the Morphine Raum, Berlin.</figcaption>
+
+<p>The project will create a sample pack of Javanese gamelan instruments to be used for music composition/production. The instruments that will be sampled come from the collection of Haus der Indonesischen Kulturen in Berlin. After the recording of the samples, a group of international artists will create new works using it.</p>
+
+<p>The project involves rehearsals and open studio, as well as concerts with live recording sessions. Paired international musicians will give improvised performance using the materials. The recorded sessions and the sample pack will be co-released by L-KW and Morphine Raum in a form of a digital album and documentation materials. This will also be part of the collection of the library of the Haus der Indonesischen Kulturen to be used and accessed by the public.</p>
+
+<p>This project will take place between May-September 2023, involving a collaboration of <a href="https://l-kw.bandcamp.com/">L-KW</a>, <a href="http://morphinerecords.com/">Morphine Raum</a>, the <a href="https://www.facebook.com/RBI.Berlin/">Haus der Indonesischen Kulturen</a>, and funded by the Musikfonds.</p>
+
+<hr />
+
+<p>For this project, I will be involved in the recording session at the Morphine Raum with <a href="https://www.goethe.de/prj/nus/en/ats/rab.html">Rabih Beaini</a> in May 2023. I am thankful for the insights given by <a href="https://rashadbecker.bandcamp.com/album/traditional-music-of-notional-species-vol-ii">Rashad Becker</a> during the recording process. I plan to use methods in Music Information Retrieval to find “latent structures” from the sound, and use this as a compositional idea during a work period in June-August 2023. An open studio and talk are planned with the composer <a href="https://khyamallami.com/">Khyam Alami</a> in September, along a collaborative performance with him in September 2023.</p>
+
+            
+        </div>
+    </div>
+    <div class="two columns">
+        &nbsp;
+    </div>
+</div>
+
+<div class="row">
+    <div class="container">
+        <footer>
+            &nbsp;
+        </footer>
+    </div>
+</div>
+
+  </body>
+</html>
