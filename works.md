@@ -13,8 +13,8 @@ Sample pack recording, composition of new music, and performances using
 Javanese Gamelan instrument.
 With L_KW and Morphine Records.
 
-[Laut Jerebu]()<br>
-Conversation and performance closing the end of residency time of the dancer Jee Chen on language, constructed identity, and the idea of a Nusantara, with Jelena Golubović, at the Flutgraben Performances, Berlin.
+[Laut Jerebu]({% link works/laut-jerebu.md %})<br>
+Conversation and performance closing the end of residency time of the dancer jee chan on language, constructed identity, and the idea of a Nusantara, with Jelena Golubović, at the Flutgraben Performances, Berlin.
 
 [Of Longing and Fear]()<br>
 A study for a web sound art installation telling fictitious journals from the time of Japanese occupation time in Indonesia. Realized as part of the workshop at the Browser Sound Festival, Stuttgart & Online.
