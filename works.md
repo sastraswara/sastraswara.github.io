@@ -5,10 +5,25 @@ layout: page
 
 ## 2023
 
-[Latent Sonorities]({% link works/latent-sonorities.md %}) (ongoing)<br>
+[Figures/Echoes (working title, upcoming)]()<br>
+A residency project exploring mode of story telling, taking inspiration from the tradition of Wayang shadow puppet and Swedish puppet theater.
+
+[Latent Sonorities]({% link works/latent-sonorities.md %})<br>
 Sample pack recording, composition of new music, and performances using
 Javanese Gamelan instrument.
 With L_KW and Morphine Records.
+
+[Laut Jerebu]()<br>
+Conversation and performance closing the end of residency time of the dancer Jee Chen on language, constructed identity, and the idea of a Nusantara, with Jelena Golubović, at the Flutgraben Performances, Berlin.
+
+[Of Longing and Fear]()<br>
+A study for a web sound art installation telling fictitious journals from the time of Japanese occupation time in Indonesia. Realized as part of the workshop at the Browser Sound Festival, Stuttgart & Online.
+
+[Indigo and Sunshine Yellow]()<br>
+Performative reading and music performance curated by Gudrun Ingratubun and Nelden Djakababa Gericke, telling the story of Indigo plants and the history of colonialism.
+
+[Traces of Degas]()<br>
+Sound to the video installation and dance workshop by the dancer/choreographer Ruben Reniers and videographer Marco Baass at Haus Bastian, Berlin.
 
 ## 2022
 
