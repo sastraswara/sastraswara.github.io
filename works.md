@@ -5,7 +5,7 @@ layout: page
 
 ## 2023
 
-[Figures/Echoes (working title, upcoming)]()<br>
+[Figures/Echoes (working title, upcoming)]({% link works/figures-echoes.md %})<br>
 A residency project exploring mode of story telling, taking inspiration from the tradition of Wayang shadow puppet and Swedish puppet theater.
 
 [Latent Sonorities]({% link works/latent-sonorities.md %})<br>
