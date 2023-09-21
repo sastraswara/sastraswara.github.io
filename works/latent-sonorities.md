@@ -9,12 +9,67 @@ carousels:
 
 <figcaption>Gamelan instruments to be recorded at the Morphine Raum, Berlin.</figcaption>
 
-The project will create a sample pack of Javanese gamelan instruments to be used for music composition/production. The instruments that will be sampled come from the collection of Haus der Indonesischen Kulturen in Berlin. After the recording of the samples, a group of international artists will create new works using it.
+# Project Description
 
-The project involves rehearsals and open studio, as well as concerts with live recording sessions. Paired international musicians will give improvised performance using the materials. The recorded sessions and the sample pack will be co-released by L-KW and Morphine Raum in a form of a digital album and documentation materials. This will also be part of the collection of the library of the Haus der Indonesischen Kulturen to be used and accessed by the public.
+Latent Sonorities invites international and Berlin-based trans-Asian artists to create works bridging traditional Indonesian instrumentation and tuning systems with contemporary electronic music production techniques.
 
-This project will take place between May-September 2023, involving a collaboration of [L-KW](https://l-kw.bandcamp.com/), [Morphine Raum](http://morphinerecords.com/), the [Haus der Indonesischen Kulturen](https://www.facebook.com/RBI.Berlin/), and funded by the Musikfonds.
+Thanks to cooperation with Haus der Indonesischen Kulturen – Rumah Budaya Indonesia – (RBI), select instruments from their Javanese gamelan ensemble will be sampled to create Berlin’s first publicly accessible sonic archive of Indonesian instruments and temperaments for electronic musicians.
 
-***
+This dynamic sonic archive will provoke and stimulate public discourse around the complexities and nuances of trans-Asian identity, musical rematriation, and its political expression through non-Western temperament and tonality.
 
-For this project, I will be involved in the recording session at the Morphine Raum with [Rabih Beaini](https://www.goethe.de/prj/nus/en/ats/rab.html) in May 2023. I am thankful for the insights given by [Rashad Becker](https://rashadbecker.bandcamp.com/album/traditional-music-of-notional-species-vol-ii) during the recording process. I plan to use methods in Music Information Retrieval to find "latent structures" from the sound, and use this as a compositional idea during a work period in June-August 2023. An open studio and talk are planned with the composer [Khyam Alami](https://khyamallami.com/) in September, along a collaborative performance with him in September 2023.
+Following the creation of a gamelan sample pack and tuning files, a short residency, open studio and final performance series of new work will be produced in collaboration with Morphine Raum.
+A sample pack, tuning files and user guide of Javanese gamelan for experimental, electronic musicians.
+
+This sample pack – consisting of audio samples, tuning files, and a booklet with cultural information on the instruments and a user’s guide – will be made free and publicly accessible online via Berlin label L-KW and inaugurated into the library of RBI.
+
+The sample pack will also be accompanied by a digital album of the concert recordings from artists commissioned to create new improvised works using the newly created archive.
+
+Latent Sonorities aims to create a blueprint for developing transcultural tools that rematriate musical knowledge. Through careful and transparent curation, collaboration, and documentation, the project aims to build a solid foundation for further collaborations with local and international artists, researchers, labels, and public institutions.
+
+(Text from Latent Sonorities page)
+
+# Links
+
+[Latent Sonorities Website](https://latentsonorities.org/): more information about the project, involved artists, as well as location of the sample packs and resources.
+
+[Inherent Possibilities](https://slides.com/bilawarespati/inherent-possibilities/fullscreen): slide presentation for the talk I gave during the open studio session at the Haus der Indonesischen Kulturen, Berlin, on the 14th of September 2023.
+
+# Acknowledgment
+
+During the total duration of the project from May to September 2023, I learned and received help from many individuals. While it is impossible to list everyone, I would like to express my personal gratitude for the explanation and support given by the following people: Priadi Dwi Hardjito, Bram Palgunadi, Bambang Sadarta, Ki Sigit Toto Carito, and Mas Mo'ong Pribadi on the topic of Javanese Karawitan music.
+
+# Team
+
+Curator and Project Lead: Morgan Sully<br>
+
+Co-curator & Project Management: Taïca Replansky<br>
+
+Project Administration & Management: Jan Thedja<br>
+
+Sample Pack Consultation, Recording & Digitization:<br>
+Bilawa Respati<br>
+Khyam Allami<br>
+Rabih Beaini<br>
+Morgan Sully<br>
+Marcioz<br>
+
+Researcher and academic liaison: Emma Lo<br>
+
+Institutional liaisons:<br>
+Bilawa Respati<br>
+Ibu Wawang<br>
+Birgit Steffan<br>
+
+Technical Assistance: Ghaliz Filkhair Haris<br>
+
+Visual Identity & illustrations:<br>
+Morgan Sully<br>
+Cindy Putri<br>
+
+Graphic Design: Tina Lehnhardt<br>
+
+Photography:<br>
+Eunice Maurice<br>
+Jan Thedja<br>
+
+German Grant Translation: Maximilian Kupi
