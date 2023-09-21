@@ -9,7 +9,7 @@ carousels:
 
 <figcaption>Gamelan instruments to be recorded at the Morphine Raum, Berlin.</figcaption>
 
-# Project Description
+## Project Description
 
 Latent Sonorities invites international and Berlin-based trans-Asian artists to create works bridging traditional Indonesian instrumentation and tuning systems with contemporary electronic music production techniques.
 
@@ -28,17 +28,17 @@ Latent Sonorities aims to create a blueprint for developing transcultural tools 
 
 (Text from Latent Sonorities page)
 
-# Links
+## Links
 
 [Latent Sonorities Website](https://latentsonorities.org/): more information about the project, involved artists, as well as location of the sample packs and resources.
 
 [Inherent Possibilities](https://slides.com/bilawarespati/inherent-possibilities/fullscreen): slide presentation for the talk I gave during the open studio session at the Haus der Indonesischen Kulturen, Berlin, on the 14th of September 2023.
 
-# Acknowledgment
+## Acknowledgment
 
 During the total duration of the project from May to September 2023, I learned and received help from many individuals. While it is impossible to list everyone, I would like to express my personal gratitude for the explanation and support given by the following people: Priadi Dwi Hardjito, Bram Palgunadi, Bambang Sadarta, Ki Sigit Toto Carito, and Mas Mo'ong Pribadi on the topic of Javanese Karawitan music.
 
-# Team
+## Team
 
 Curator and Project Lead: Morgan Sully<br>
 
