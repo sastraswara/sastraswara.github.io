@@ -19,7 +19,7 @@ A web visual novel and sound installation telling stories from the time of Japan
 
 ## 2023
 
-[Shadows/Echoes (working title, upcoming)]({% link works/shadows-echoes.md %})<br>
+[Shadows/Echoes]({% link works/shadows-echoes.md %})<br>
 A residency project exploring mode of story telling, taking inspiration from the tradition of Wayang shadow puppet and Swedish puppet theater, Stockholm. 
 
 [Latent Sonorities]({% link works/latent-sonorities.md %})<br>
