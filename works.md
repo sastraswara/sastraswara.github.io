@@ -3,15 +3,29 @@ title: Selected Works and Projects
 layout: page
 ---
 
+## 2024
+
+[Shadow Play (Upcoming)]()<br>
+Planned shadow puppet performance telling the stories of birth and death, Stockholm.
+
+[Dedolanan (upcoming)]()<br>
+New composition for Gamelan and two performers, with the composer and musician Mo'ong Pribadi, Berlin.
+
+[Distant Memories of the Void]()<br>
+Gamelan music automaton and visual installation at the Haus der Indonesischen Kulturen, with Emese Csornai (visual concept) and Adrian Latupeirissa (technologist), Berlin.
+
+[TIRAI]()<br>
+A web visual novel and sound installation telling stories from the time of Japanese occupation in Indonesia. Part of the Web Sound Art Festival 2024, Online.
+
 ## 2023
 
-[Figures/Echoes (working title, upcoming)]({% link works/figures-echoes.md %})<br>
-A residency project exploring mode of story telling, taking inspiration from the tradition of Wayang shadow puppet and Swedish puppet theater.
+[Shadows/Echoes (working title, upcoming)]({% link works/shadows-echoes.md %})<br>
+A residency project exploring mode of story telling, taking inspiration from the tradition of Wayang shadow puppet and Swedish puppet theater, Stockholm. 
 
 [Latent Sonorities]({% link works/latent-sonorities.md %})<br>
 Sample pack recording, composition of new music, and performances using
 Javanese Gamelan instrument.
-With L_KW and Morphine Records.
+With L_KW and Morphine Records, Berlin.
 
 [Laut Jerebu]({% link works/laut-jerebu.md %})<br>
 Conversation and performance closing the end of residency time of the dancer jee chan on language, constructed identity, and the idea of a Nusantara, with Jelena Golubović, at the Flutgraben Performances, Berlin.
@@ -50,7 +64,7 @@ Durational performance with participants on the idea of an imagined cultures and
 With Nindya Nareswari, Rizki Resa Utama, Jan Thedja, and Ariel Orah.
 Intervention on the exhibition Nation, Narration, Narcosis. Performed in May 2022 at Hamburger Bahnhof, Berlin.
 
-Kiamat<br>
+[Kiamat]()<br>
 Music performance based on the work of the duo Senyawa, with LKW, Soydivision Ensemble, Rabih Beaini (Morphine Records).
 Performed in April 2022 at the Haus der Indonesischen Kulturen Berlin.
 
