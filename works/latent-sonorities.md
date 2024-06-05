@@ -30,7 +30,12 @@ Latent Sonorities aims to create a blueprint for developing transcultural tools 
 
 ## Links
 
+![Latent Sonorities](https://i.postimg.cc/28jGrGhJ/image1.jpg)
+<figcaption>Performance at the Morphine Raum with Mo'ong Pribadi. Photo by Eunice Maurice</figcaption>
+
 [Latent Sonorities Website](https://latentsonorities.org/): more information about the project, involved artists, as well as location of the sample packs and resources.
+
+[Latent Sonorities Album](https://yesnowave.com/releases/yesno109/): a release by Yes No Wave Music containing music by Pinky Htut Aung, Cheryl Ong & Khyam Allami, Tusa Montes & Morgan Sully, Bilawa Respati & Mo'ong Pribadi, as well as Wanton Witch.
 
 [Inherent Possibilities](https://slides.com/bilawarespati/inherent-possibilities/fullscreen): slide presentation for the talk I gave during the open studio session at the Haus der Indonesischen Kulturen, Berlin, on the 14th of September 2023.
 

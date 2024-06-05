@@ -3,10 +3,9 @@ title: Shadows/Echoes
 layout: page
 ---
 
-<figure>
-  <img src="https://i.postimg.cc/GhRPdGf6/vlcsnap-2023-12-14-20h26m19s944.png" alt="Shadow play" />
-  <figcaption>Shadow play being developed during the residency.</figcaption>
-</figure>
+
+![Shadow play](https://i.postimg.cc/GhRPdGf6/vlcsnap-2023-12-14-20h26m19s944.png)
+<figcaption>Shadow play being developed during the residency.</figcaption>
 
 ## Description
 
@@ -28,10 +27,8 @@ As a musician and composer who uses Javanese Gamelan in contemporary and experim
 
 ## Acknowledgement
 
-<figure>
-  <img src="https://i.postimg.cc/d1mmFs8c/IMG-2415.jpg" alt="Shadow puppet" />
-  <figcaption>Study of shadow puppetry developed during the residency.</figcaption>
-</figure>
+![Shadow puppet](https://i.postimg.cc/d1mmFs8c/IMG-2415.jpg)
+<figcaption>Study of shadow puppetry developed during the residency.</figcaption>
 
 I am grateful for the support of his excellency Kamapradipta Isnomo the Indonesian Ambassador and Gita Loka Murti of the Embassy of the Republic of Indonesia in Stockholm for their permission and support in regards to the Gamelan instrument. 
 
