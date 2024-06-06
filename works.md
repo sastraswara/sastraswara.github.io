@@ -11,7 +11,7 @@ Planned shadow puppet performance telling the stories of birth and death, Stockh
 [Dedolanan (upcoming)]()<br>
 New composition for Gamelan and two performers, with the composer and musician Mo'ong Pribadi, Berlin.
 
-[Distant Memories of the Void]()<br>
+[Distant Memories of the Void]({% link works/void.md %})<br>
 Gamelan music automaton and visual installation at the Haus der Indonesischen Kulturen, with Emese Csornai (visual concept) and Adrian Latupeirissa (technologist), Berlin.
 
 [TIRAI]({% link works/tirai.md %})<br>

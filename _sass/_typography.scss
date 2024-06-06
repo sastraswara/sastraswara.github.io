@@ -91,7 +91,9 @@ ul {
 
 li {
     font-size: $font-size-middle;
-    margin-bottom: 0.125 * $half-paragraph-margin;
+    margin-top: 0; //0.125 * $half-paragraph-margin;
+    margin-bottom: 0; //0.125 * $half-paragraph-margin;
+    font-family: $font-normal;
 }
 
 blockquote {
@@ -126,7 +128,8 @@ figcaption {
     font-size: $font-size-footnote;
     line-height: 1.3 * $font-size-small;
     padding-left: 1rem;
-    margin-bottom: $half-paragraph-margin;
+    margin-top: 0.1rem;
+    margin-bottom: $font-size-middle; //$half-paragraph-margin;
     //align: right;
 }
 
