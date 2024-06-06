@@ -36,7 +36,7 @@ A study for a web sound art installation telling fictitious journals from the ti
 [Indigo and Sunshine Yellow]({% link works/indigo.md %})<br>
 Performative reading and music performance curated by Gudrun Ingratubun and Nelden Djakababa Gericke, telling the story of Indigo plants and the history of colonialism.
 
-[Traces of Degas]()<br>
+[Traces of Degas]({% link works/traces-of-degas.md %})<br>
 Sound to the video installation and dance workshop by the dancer/choreographer Ruben Reniers and videographer Marco Baass at Haus Bastian, Berlin.
 
 ## 2022
