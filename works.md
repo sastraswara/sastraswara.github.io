@@ -14,7 +14,7 @@ New composition for Gamelan and two performers, with the composer and musician M
 [Distant Memories of the Void]()<br>
 Gamelan music automaton and visual installation at the Haus der Indonesischen Kulturen, with Emese Csornai (visual concept) and Adrian Latupeirissa (technologist), Berlin.
 
-[TIRAI]()<br>
+[TIRAI]({% link works/tirai.md %})<br>
 A web visual novel and sound installation telling stories from the time of Japanese occupation in Indonesia. Part of the Web Sound Art Festival 2024, Online.
 
 ## 2023
