@@ -17,7 +17,7 @@ Indigo and Sunshine Yellow is a program curated by Gudrun Ingratubun and Nelden 
 
 ## Performances
 
-For the performance on the 2nd of July, an algorithmic music inspired by the "sound of the indigo plant" was composed. The bioelectricity that is converted into sound through a dedicated device is used as an inspiration for a soundscape performed by the computer: a symbiote of nature and machine. The music set the mood for reading of texts telling the story of the Indigo plants from its forced plantation and exploitation through collonialism, through the aiding of the Indonesian writer Pramoedya Ananta Toer. 
+For the performance on the 2nd of July, an algorithmic music inspired by the "sound of the indigo plant" was composed. The bioelectricity that is converted into sound through a dedicated device is used as an inspiration for a soundscape performed by the computer: a symbiote of nature and machine. The music set the mood for reading of texts telling the story of the Indigo plants from its forced plantation and exploitation through collonialism. In one part, a story on how ink made out of indigo plant helped the Indonesian writer Pramoedya Ananta Toer during his imprisonement in the Buru island. 
 
 ![Performance 2nd July](https://i.postimg.cc/8zj7KqW1/vlcsnap-2024-06-05-20h53m03s978.png)
 <figcaption>Reading a text about Pramoedya Ananta Toer and Oei Him Hwie, written by Nelden Djakababa Gericke, with German translation by Simon Köslich.</figcaption>
