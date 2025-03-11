@@ -3,13 +3,37 @@ title: Selected Works and Projects
 layout: page
 ---
 
+## 2025
+
+[The Void and Its Attaintment (Upcoming)]()<br>
+A planned audiovisual installation for gamelan automaton, 4 channel
+electronics, video, and shadow puppet, with the visual artist and lighting
+designer Emese Csornai, TBA.
+
+[Sungai (Upcoming)]()<br>
+A planned audiovisual composition based on the new work of the Indonesian author
+Triyanto Triwikromo, Berlin.
+
+[Shinta x Dahana (Upcoming)]()<br>
+A planned new dance piece based on Shinta's Trial of Fire from the epic
+Ramayana, with the dancer/choreographer Ruben Reniers, Berlin.
+
+[A Thousand Weaverbirds (WIP) at Resynthesizing the Traditionals Lab CTM Festival 2025]()<br>
+Working on a new planned composition "A Thousand Weaverbirds" during the artistic lab of CTM Festival 2025, Berlin.
+
+[Laut Jerebu in Choreographic Device 4]()<br>
+Conversation and performance on the choreographic of language, mapping,
+nationhood, and diaspora in relation to the construction of identity, with jee
+chan and Jelena Golubovic, London.
+
+
 ## 2024
 
-[Shadow Play (Upcoming)]()<br>
-Planned shadow puppet performance telling the stories of birth and death, Stockholm.
+[A Play for the Gods, A Play for No Good(?)]()<br>
+A black shadow play and conceptual performance about invisibility and death, with the puppeteer Lisa Björkström, Stockholm.
 
-[Dedolanan (upcoming)]()<br>
-New composition for Gamelan and two performers, with the composer and musician Mo'ong Pribadi, Berlin.
+[Duet]()<br>
+New compositions for Gamelan and two performers, with the composer and musician Mo'ong Pribadi, Berlin & Vilnius.
 
 [Distant Memories of the Void]({% link works/void.md %})<br>
 Gamelan music automaton and visual installation at the Haus der Indonesischen Kulturen, with Emese Csornai (visual concept) and Adrian Latupeirissa (technologist), Berlin.
