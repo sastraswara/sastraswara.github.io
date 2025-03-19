@@ -21,7 +21,7 @@ Ramayana, with the dancer/choreographer Ruben Reniers, Berlin.
 [A Thousand Weaverbirds (WIP) at Resynthesizing the Traditionals Lab CTM Festival 2025]()<br>
 Working on a new planned composition "A Thousand Weaverbirds" during the artistic lab of CTM Festival 2025, Berlin.
 
-[Laut Jerebu in Choreographic Device 4]()<br>
+[Laut Jerebu in Choreographic Device 4]({% link works/laut-jerebu-choreographic-devices.md %})<br>
 Conversation and performance on the choreographic of language, mapping,
 nationhood, and diaspora in relation to the construction of identity, with jee
 chan and Jelena Golubovic, London.
