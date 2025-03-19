@@ -1,6 +1,6 @@
 ---
-title: Selected Works and Projects 
-layout: page 
+title: Selected Works and Projects
+layout: page
 ---
 
 ## 2025
@@ -16,8 +16,8 @@ work of the Indonesian author Triyanto Triwikromo, Berlin.
 Trial of Fire from the epic Ramayana, with the dancer/choreographer Ruben
 Reniers, Berlin.
 
-[A Thousand Weaverbirds (WIP) at Resynthesizing the Traditionals Lab CTM
-Festival 2025]()<br> Working on a new planned composition "A Thousand
+[A Thousand Weaverbirds (WIP)]()<br>
+Working on a new planned composition "A Thousand
 Weaverbirds" during the artistic lab of CTM Festival 2025, Berlin.
 
 [Laut Jerebu in Choreographic Device 4]({% link
@@ -28,9 +28,9 @@ to the construction of identity, with jee chan and Jelena Golubovic, London.
 
 ## 2024
 
-[A Play for the Gods, A Play for No Good(?)]()<br> A black shadow play and
-conceptual performance about invisibility and death, with the puppeteer Lisa
-Björkström, Stockholm.
+[A Play for the Gods, A Play for No Good(?)]({% link works/play-for-the-gods.md %})<br>
+A black shadow play and conceptual performance about invisibility and death,
+with the puppeteer Lisa Björkström, Stockholm.
 
 [Duet]({% link works/duet.md %})<br> New compositions for Gamelan and two
 performers, with the composer and musician Mo'ong Pribadi, Berlin & Vilnius.
@@ -47,7 +47,7 @@ Part of the Web Sound Art Festival 2024, Online.
 
 [Shadows/Echoes]({% link works/shadows-echoes.md %})<br> A residency project
 exploring mode of story telling, taking inspiration from the tradition of
-Wayang shadow puppet and Swedish puppet theater, Stockholm. 
+Wayang shadow puppet and Swedish puppet theater, Stockholm.
 
 [Latent Sonorities]({% link works/latent-sonorities.md %})<br> Sample pack
 recording, composition of new music, and performances using Javanese Gamelan
