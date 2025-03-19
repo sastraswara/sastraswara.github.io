@@ -3,6 +3,9 @@ title: Duet
 layout: page
 ---
 
+![Latent Sonorities](https://i.postimg.cc/28jGrGhJ/image1.jpg)
+<figcaption>Bilawa Respati and Mo'ong Pribadi during the Latent Sonorities concert in 2023</figcaption>
+
 ## Project Description
 
 "Duet" is a composition project for Gamelan and two players or more, initiated
@@ -41,7 +44,8 @@ subset among many cultures and traditions, and its contemporary challenges.
 ## Demo Album
 
 The result of the composition is planned to be released as an album in 2025.
-Interested party may request access to listen to this demo by contacting us.
+Interested party may request access to listen to this demo by 
+[contacting us]({% link contact.md %}).
 
 ## Acknowledgement
 
