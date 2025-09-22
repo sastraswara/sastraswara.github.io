@@ -5,9 +5,14 @@ layout: page
 
 ## 2025
 
-[The Void and Its Attaintment (Upcoming)]()<br> A planned audiovisual
-installation for gamelan automaton, 4 channel electronics, video, and shadow
-puppet, with the visual artist and lighting designer Emese Csornai, TBA.
+[Laut Jerebu in Choreographic Device 4]({% link
+works/laut-jerebu-choreographic-devices.md %})<br> Conversation and performance
+on the choreographic of language, mapping, nationhood, and diaspora in relation
+to the construction of identity, with jee chan and Jelena Golubovic, London.
+
+[Encounters & A Thousand Weaverbirds (WIP)]({% link works/weaverbirds.md %})<br>
+Presentation of work in progres, talk, and improvisatory performance during the
+artistic lab of CTM Festival 2025, Berlin.
 
 [Sungai (Upcoming)]()<br> A planned audiovisual composition based on the new
 work of the Indonesian author Triyanto Triwikromo, Berlin.
@@ -16,15 +21,9 @@ work of the Indonesian author Triyanto Triwikromo, Berlin.
 Trial of Fire from the epic Ramayana, with the dancer/choreographer Ruben
 Reniers, Berlin.
 
-[A Thousand Weaverbirds (WIP)]()<br>
-Working on a new planned composition "A Thousand
-Weaverbirds" during the artistic lab of CTM Festival 2025, Berlin.
-
-[Laut Jerebu in Choreographic Device 4]({% link
-works/laut-jerebu-choreographic-devices.md %})<br> Conversation and performance
-on the choreographic of language, mapping, nationhood, and diaspora in relation
-to the construction of identity, with jee chan and Jelena Golubovic, London.
-
+[The Void and Its Attaintment (Upcoming)]()<br> A planned audiovisual
+installation for gamelan automaton, 4 channel electronics, video, and shadow
+puppet, with the visual artist and lighting designer Emese Csornai, TBA.
 
 ## 2024
 
