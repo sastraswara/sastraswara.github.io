@@ -8,18 +8,20 @@ layout: page
 [Laut Jerebu in Choreographic Device 4]({% link
 works/laut-jerebu-choreographic-devices.md %})<br> Conversation and performance
 on the choreographic of language, mapping, nationhood, and diaspora in relation
-to the construction of identity, with jee chan and Jelena Golubovic, London.
+to the construction of identity, with jee chan and Jelena Golubovic, Institute
+of Contemporary Art, London.
 
 [Encounters & A Thousand Weaverbirds (WIP)]({% link works/weaverbirds.md %})<br>
 Presentation of work in progres, talk, and improvisatory performance during the
-artistic lab of CTM Festival 2025, Berlin.
+artistic lab of CTM Festival 2025, Radial System, Berlin.
 
-[Sungai (Upcoming)]()<br> A planned audiovisual composition based on the new
-work of the Indonesian author Triyanto Triwikromo, Berlin.
-
-[Shinta x Dahana (Upcoming)]()<br> A planned new dance piece based on Shinta's
+[Sinta x Dahana]({% link works/sinta.md %})<br> A dance piece based on Shinta's
 Trial of Fire from the epic Ramayana, with the dancer/choreographer Ruben
-Reniers, Berlin.
+Reniers, dock11, Berlin.
+
+[Nieselregen/Gerimis]()<br> An audiovisual composition based on the 
+novel "Seperti Gerimis Merah di Auschwitz" of the Indonesian author Triyanto
+Triwikromo, Haus der Indonesischen Kulturen, Berlin.
 
 [The Void and Its Attaintment (Upcoming)]()<br> A planned audiovisual
 installation for gamelan automaton, 4 channel electronics, video, and shadow
