@@ -5,27 +5,31 @@ layout: page
 
 ## 2025
 
-[Laut Jerebu in Choreographic Device 4]({% link
-works/laut-jerebu-choreographic-devices.md %})<br> Conversation and performance
-on the choreographic of language, mapping, nationhood, and diaspora in relation
-to the construction of identity, with jee chan and Jelena Golubovic, Institute
-of Contemporary Art, London.
+[The Void and Its Attaintment (Upcoming)]()<br> A planned audiovisual
+installation for gamelan automaton, 4 channel electronics, video, and shadow
+puppet, with the visual artist and lighting designer Emese Csornai, TBA.
 
-[Encounters & A Thousand Weaverbirds (WIP)]({% link works/weaverbirds.md %})<br>
-Presentation of work in progres, talk, and improvisatory performance during the
-artistic lab of CTM Festival 2025, Radial System, Berlin.
+[On Void and Fate]()<br>
+Lecture concert on investigating the idea of void (Suwung) and the work
+of Sutan Takdir Alisjahbana. Part of the Knistern series, Richten25, Berlin.
+
+[Nieselregen/Gerimis]({% link works/gerimis.md %})<br> An audiovisual
+composition based on the novel "Seperti Gerimis Merah di Auschwitz" of the
+Indonesian author Triyanto Triwikromo, Haus der Indonesischen Kulturen, Berlin.
 
 [Sinta x Dahana]({% link works/sinta.md %})<br> A dance piece based on Shinta's
 Trial of Fire from the epic Ramayana, with the dancer/choreographer Ruben
 Reniers, dock11, Berlin.
 
-[Nieselregen/Gerimis]()<br> An audiovisual composition based on the 
-novel "Seperti Gerimis Merah di Auschwitz" of the Indonesian author Triyanto
-Triwikromo, Haus der Indonesischen Kulturen, Berlin.
+[Encounters & A Thousand Weaverbirds (WIP)]({% link works/weaverbirds.md %})<br>
+Presentation of work in progres, talk, and improvisatory performance during the
+artistic lab of CTM Festival 2025, Radial System, Berlin.
 
-[The Void and Its Attaintment (Upcoming)]()<br> A planned audiovisual
-installation for gamelan automaton, 4 channel electronics, video, and shadow
-puppet, with the visual artist and lighting designer Emese Csornai, TBA.
+[Laut Jerebu in Choreographic Device 4]({% link
+works/laut-jerebu-choreographic-devices.md %})<br> Conversation and performance
+on the choreographic of language, mapping, nationhood, and diaspora in relation
+to the construction of identity, with jee chan and Jelena Golubovic, Institute
+of Contemporary Art, London.
 
 ## 2024
 
