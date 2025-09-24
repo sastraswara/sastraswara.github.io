@@ -9,7 +9,7 @@ layout: page
 installation for gamelan automaton, 4 channel electronics, video, and shadow
 puppet, with the visual artist and lighting designer Emese Csornai, TBA.
 
-[On Void and Fate]()<br>
+[On Void and Fate]({% link works/void-and-fate.md %})<br>
 Lecture concert on investigating the idea of void (Suwung) and the work
 of Sutan Takdir Alisjahbana. Part of the Knistern series, Richten25, Berlin.
 
